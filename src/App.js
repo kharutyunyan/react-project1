@@ -24,7 +24,7 @@ const App = () => {
             <Blok width="80px" height="100px" bgColor="violet"></Blok>
             <Blok width='120px' height='65px' bgColor='yellow' borderRadius="4px 4px 4px 4px" borderColor="green"></Blok>
             <Blok width="60px" height='80px' bgColor='green' position='relative'></Blok>
-            <Blok width="120px" height="95px" bgColor="white" align="center">Text</Blok>
+            <Blok width="120px" height="95px" bgColor="purple" align="center">Text</Blok>
             
        </> 
     )
